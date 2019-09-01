@@ -1,0 +1,14 @@
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task4\bin\Debug\Task4.exe.config
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task4\bin\Debug\Task4.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task4\bin\Debug\Task4.pdb
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task4\obj\Debug\Task4.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task4\obj\Debug\Task4.pdb
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5 Array (Indexers)\Task4\bin\Debug\Task4.exe.config
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5 Array (Indexers)\Task4\bin\Debug\Task4.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5 Array (Indexers)\Task4\bin\Debug\Task4.pdb
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5 Array (Indexers)\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5 Array (Indexers)\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5 Array (Indexers)\Task4\obj\Debug\Task4.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5 Array (Indexers)\Task4\obj\Debug\Task4.pdb

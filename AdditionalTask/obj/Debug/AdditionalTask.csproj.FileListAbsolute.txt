@@ -1,0 +1,7 @@
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\AdditionalTask\bin\Debug\AdditionalTask.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\AdditionalTask\bin\Debug\AdditionalTask.pdb
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\AdditionalTask\obj\Debug\AdditionalTask.csprojAssemblyReference.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\AdditionalTask\obj\Debug\AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\AdditionalTask\obj\Debug\AdditionalTask.pdb

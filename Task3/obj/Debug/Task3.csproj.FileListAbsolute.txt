@@ -1,0 +1,7 @@
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task3\bin\Debug\Task3.exe.config
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task3\bin\Debug\Task3.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task3\bin\Debug\Task3.pdb
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task3\obj\Debug\Task3.exe
+C:\Users\Vera\Documents\Visual Studio 2017\Projects\!002 - C#_-_Essential\Second Chance\Lesson 5\Task3\obj\Debug\Task3.pdb
